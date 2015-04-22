@@ -1,0 +1,22 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+var food = prompt ("Do you want cake?");
+if (food === "yes") 
+{
+	//some command
+console.log ("Have some cake.");
+}
+else
+{
+	//Otherwise, another command
+console.log("No cake for you.");
+}
+
+</script>
+</body>
+</html>
